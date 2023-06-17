@@ -90,6 +90,7 @@
         line-height: 1.11;
         text-transform: capitalize;
         letter-spacing: 0.02em;
+        text-align: center;
     }
     .features-list {
         list-style-type:none;
@@ -114,6 +115,7 @@
         font-weight:500;
         font-size: 20px;
         line-height: 1.2em;
+        letter-spacing: 0.02em;
     }
     .section-team-text {
         color: var(--color-secondary-text);
