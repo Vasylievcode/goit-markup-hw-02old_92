@@ -31,7 +31,7 @@
     }
     .site-nav-list .link:hover , 
     .site-nav-list .link:active { 
-        color:var(--accent-pressed-state)
+        color:var(--accent-pressed-state);
     }
     .site-nav-list .link {
         color:var(--color-main-text);
@@ -71,6 +71,7 @@
         letter-spacing: 0.02em;
     }
     .btn-banner {
+        background-color: #404BBF;
         font-family: 'Roboto', sans-serif;
         color: #ffffff;
         font-weight:500;
@@ -79,6 +80,7 @@
         background-color: var(--accent);
         letter-spacing: 0.04em;
         text-align: center;
+        cursor: pointer;
     }
     .section-title{
         font-weight: 700;
