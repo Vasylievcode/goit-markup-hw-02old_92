@@ -21,7 +21,7 @@
         font-weight: 800;
         color: var(--color-main-text);
         font-size: 18px;
-        line-height: 21px;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-decoration-line: none;
         text-transform: uppercase;
@@ -127,4 +127,7 @@
     }
     .nav-gallery-list {
         list-style-type:none;
+    }
+    .logo-name {
+        color:#4D5AE5;
     }
