@@ -71,7 +71,6 @@
         letter-spacing: 0.02em;
     }
     .btn-banner {
-        background-color: #404BBF;
         font-family: 'Roboto', sans-serif;
         color: #ffffff;
         font-weight:500;
@@ -81,6 +80,9 @@
         letter-spacing: 0.04em;
         text-align: center;
         cursor: pointer;
+    }
+    .btn-banner:hover, .btn-banner:focus {
+        background-color: #404BBF;
     }
     .section-title{
         font-weight: 700;
