@@ -116,3 +116,14 @@
     .footer-text {
         color:#F4F4FD;
     }
+    .btn-list {
+        list-style-type:none;
+    }
+    .btn-nav {
+        font-weight: 500;
+        background-color: #F4F4FD;
+        color: #4D5AE5;
+    }
+    .nav-gallery-list {
+        list-style-type:none;
+    }
