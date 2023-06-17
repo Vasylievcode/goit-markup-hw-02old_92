@@ -1,23 +1,35 @@
-body {
-    
-}
-.main-logo {
-}
-.site-nav-list {
-}
-.link {
-}
-.site-nav-address {
-}
-.section-banner-title {
-}
-.section-features {
-}
-.section-title {
-}
-.features-list {
-}
-.card-title {
-}
-.section-features-text {
-}
+:root {
+    --primary-bg-color: #ffffff;
+    --secondary-bg-color: #2E2F42;
+    --color-main-text: #2E2F42;
+    --color-secondary-text: #434455;
+    --accent: #4D5AE5;
+    --accent-pressed-state: #404BBF;
+    --color-bg-team: #F4F4FD;
+    }
+    body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--color-secondary-text);
+    }
+    .logo-header-link {
+    }
+    .site-nav-list {
+    }
+    .link {
+    }
+    .site-nav-address {
+    }
+    .contacts-link {
+    }
+    .section-nav-gallery {
+    }
+    .btn-list {
+    }
+    .btn-nav {
+    }
+    .nav-gallery-list {
+    }
