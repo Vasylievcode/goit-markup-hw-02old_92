@@ -16,20 +16,103 @@
     color: var(--color-secondary-text);
     }
     .logo-header-link {
+        font-family: "Raleway", sans-serif;
+        font-weight: 800;
+        color: var(--color-main-text);
+        font-size: 18px;
+        line-height: 21px;
+        letter-spacing: 0.03em;
+        text-decoration-line: none;
+        text-transform: uppercase;
     }
     .site-nav-list {
+        list-style-type:none;
     }
-    .link {
+    .site-nav-list .link:hover , 
+    .site-nav-list .link:active { 
+        color:var(--accent-pressed-state)
+    }
+    .site-nav-list .link {
+        color:var(--color-main-text);
+        font-weight: 500;
+    }
+    .link { 
+        text-decoration-line: none;
+    }
+    .link:hover{
+        font-color: #4D5AE5;
+    }
+    .link:focus {
+        font-color: #4D5AE5;
     }
     .site-nav-address {
+        list-style-type:none;
+    }
+    .site-nav-address .contacts-link:hover ,
+    .site-nav-address .contacts-link:active {
+        color:var(--accent-pressed-state);
     }
     .contacts-link {
+        font-style: normal;
+        text-decoration-line: none;
+        color:var(--color-secondary-text);
     }
-    .section-nav-gallery {
+    .hero {
+        background-color: var(--color-main-text);
     }
-    .btn-list {
+    .section-banner-title {
+        color: #ffffff;
+        font-weight:700;
+        font-size: 56px;
+        line-height:1.07;
+        text-align: center;
     }
-    .btn-nav {
+    .btn-banner {
+        color: #ffffff;
+        font-weight:500;
+        background-color: var(--accent);
+        letter-spacing: 0.04em;
+        text-align: center;
     }
-    .nav-gallery-list {
+    .section-title{
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        text-transform: capitalize;
+    }
+    .features-list {
+        list-style-type:none;
+    }
+    .features-list .card-title {
+        font-weight: 500;
+        font-size:20px;
+        list-style-type:none;
+    }
+    .what-we-doing {
+        list-style-type:none;
+    }
+    .section-title-team {
+        background-color: var(--color-bg-team);
+    }
+    .our-team  {
+        background-color: #ffffff;
+        list-style-type:none;
+    }
+    .card-title {
+        color:var(--color-main-text);
+        font-weight:500;
+        font-size: 20px;
+        line-height: 1.2em;
+    }
+    .section-team-text {
+        color: var(--color-secondary-text);
+    }
+    .section-footer {
+        background-color: var(--color-main-text);
+    }
+    .section-footer .logo-header-link {
+        color:#F4F4FD;
+    }
+    .footer-text {
+        color:#F4F4FD;
     }
