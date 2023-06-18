@@ -50,7 +50,7 @@
     }
 
     .site-nav-address .contacts-link:hover ,
-    .site-nav-address .contacts-link:active {
+    .site-nav-address .contacts-link:focus {
         color:#404BBF;
     }
     .contacts-link {
