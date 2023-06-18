@@ -14,12 +14,12 @@
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--color-secondary-text);
+    color: #434455;
     }
     .logo-header-link {
         font-family: "Raleway", sans-serif;
         font-weight: 800;
-        color: var(--color-main-text);
+        color: #2E2F42;
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
@@ -29,10 +29,10 @@
   
     .site-nav-list .link:hover , 
     .site-nav-list .link:active { 
-        color:var(--accent-pressed-state);
+        color:#404BBF;
     }
     .site-nav-list .link {
-        color:var(--color-main-text);
+        color:#2E2F42;
         font-weight: 500;
     }
     .link { 
@@ -48,15 +48,15 @@
 
     .site-nav-address .contacts-link:hover ,
     .site-nav-address .contacts-link:active {
-        color:var(--accent-pressed-state);
+        color:#404BBF;
     }
     .contacts-link {
         font-style: normal;
         text-decoration-line: none;
-        color:var(--color-secondary-text);
+        color:#434455;
     }
     .hero {
-        background-color: var(--color-main-text);
+        background-color: #2E2F42;
     }
     .section-banner-title {
         font-family: 'Roboto', sans-serif;
@@ -73,7 +73,7 @@
         font-weight:500;
         font-size: 16px;
         line-height: 1.5;
-        background-color: var(--accent);
+        background-color: #4D5AE5;
         letter-spacing: 0.04em;
         text-align: center;
         cursor: pointer;
@@ -98,7 +98,7 @@
 
 
     .section-title-team {
-        background-color: var(--color-bg-team);
+        background-color: #F4F4FD;
     }
     .our-team  {
         background-color: #ffffff;
@@ -112,10 +112,10 @@
         letter-spacing: 0.02em;
     }
     .section-team-text {
-        color: var(--color-secondary-text);
+        color: #434455;
     }
     .section-footer {
-        background-color: var(--color-main-text);
+        background-color: #2E2F42;
     }
     .section-footer .logo-header-link {
         color:#F4F4FD;
