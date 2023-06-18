@@ -27,7 +27,7 @@
         text-transform: uppercase;
     }
     .site-nav-list {
-        list-style-type:none;
+        list-style:none;
     }
     .site-nav-list .link:hover , 
     .site-nav-list .link:active { 
@@ -47,7 +47,7 @@
         font-color: #4D5AE5;
     }
     .site-nav-address {
-        list-style-type:none;
+        list-style:none;
     }
     .site-nav-address .contacts-link:hover ,
     .site-nav-address .contacts-link:active {
@@ -93,22 +93,22 @@
         text-align: center;
     }
     .features-list {
-        list-style-type:none;
+        list-style:none;
     }
     .features-list .card-title {
         font-weight: 500;
         font-size:20px;
-        list-style-type:none;
+        list-style:none;
     }
     .what-we-doing {
-        list-style-type:none;
+        list-style:none;
     }
     .section-title-team {
         background-color: var(--color-bg-team);
     }
     .our-team  {
         background-color: #ffffff;
-        list-style-type:none;
+        list-style:none;
     }
     .card-title {
         color: #2E2F42;
@@ -130,7 +130,7 @@
         color:#F4F4FD;
     }
     .btn-list {
-        list-style-type:none;
+        list-style:none;
     }
     .btn-nav {
         font-family: 'Roboto', sans-serif;
@@ -142,7 +142,7 @@
         color: #4D5AE5;
     }
     .nav-gallery {
-        list-style-type:none;
+        list-style:none;
     }
     .logo-name {
         color:#4D5AE5;
