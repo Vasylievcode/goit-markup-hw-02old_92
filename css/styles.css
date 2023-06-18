@@ -26,9 +26,7 @@
         text-decoration-line: none;
         text-transform: uppercase;
     }
-    .site-nav-list {
-        list-style:none;
-    }
+  
     .site-nav-list .link:hover , 
     .site-nav-list .link:active { 
         color:var(--accent-pressed-state);
@@ -46,9 +44,8 @@
     .link:focus {
         font-color: #4D5AE5;
     }
-    .site-nav-address {
-        list-style:none;
-    }
+
+
     .site-nav-address .contacts-link:hover ,
     .site-nav-address .contacts-link:active {
         color:var(--accent-pressed-state);
@@ -92,23 +89,20 @@
         letter-spacing: 0.02em;
         text-align: center;
     }
-    .features-list {
-        list-style:none;
-    }
+
+    
     .features-list .card-title {
         font-weight: 500;
         font-size:20px;
-        list-style:none;
     }
-    .what-we-doing {
-        list-style:none;
-    }
+
+
     .section-title-team {
         background-color: var(--color-bg-team);
     }
     .our-team  {
         background-color: #ffffff;
-        list-style:none;
+        
     }
     .card-title {
         color: #2E2F42;
@@ -129,9 +123,7 @@
     .footer-text {
         color:#F4F4FD;
     }
-    .btn-list {
-        list-style:none;
-    }
+
     .btn-nav {
         font-family: 'Roboto', sans-serif;
         line-height: 1.5;
@@ -146,4 +138,7 @@
     }
     .logo-name {
         color:#4D5AE5;
+    }
+    .list {
+        list-style:none;
     }
