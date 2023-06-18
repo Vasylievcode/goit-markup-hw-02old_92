@@ -47,7 +47,6 @@
         color: #4D5AE5;
     }
 
-
     .site-nav-address .contacts-link:hover ,
     .site-nav-address .contacts-link:active {
         color:#404BBF;
@@ -98,7 +97,6 @@
         font-weight: 500;
         font-size:20px;
     }
-
 
     .section-title-team {
         background-color: #F4F4FD;
@@ -155,6 +153,7 @@
     }
     .address-site {
         font-style:normal;
+        list-style: none;
     }
     .logo-footer-link {
         color:#4d5ae5;
