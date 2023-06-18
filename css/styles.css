@@ -28,7 +28,7 @@
     }
   
     .site-nav-list .link:hover , 
-    .site-nav-list .link:active { 
+    .site-nav-list .link:focus { 
         color:#404BBF;
     }
     .site-nav-list .link {
@@ -138,7 +138,7 @@
         list-style:none;
     }
     .logo-name {
-        color:#4d5ae5;
+        color:#2e2f42;
     }
     .list {
         list-style:none;
