@@ -41,10 +41,10 @@
         text-decoration-line: none;
     }
     .link:hover{
-        font-color: #4D5AE5;
+        color: #4D5AE5;
     }
     .link:focus {
-        font-color: #4D5AE5;
+        color: #4D5AE5;
     }
 
 
