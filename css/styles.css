@@ -133,6 +133,11 @@
         font-weight: 500;
         background-color: #F4F4FD;
         color: #4D5AE5;
+        cursor: pointer;
+    }
+    .btn-nav:hover, .btn-nav:focus {
+        color:#ffffff;
+        background-color:#404BBF;
     }
     .nav-gallery {
         list-style:none;
