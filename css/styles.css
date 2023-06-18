@@ -176,3 +176,6 @@
         text-decoration-line: none;
         text-transform: uppercase;
     }
+    .span-class {
+        color: #f4f4fd;
+    }
