@@ -133,11 +133,15 @@
         list-style-type:none;
     }
     .btn-nav {
+        font-family: 'Roboto', sans-serif;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        font-size: 16px;
         font-weight: 500;
         background-color: #F4F4FD;
         color: #4D5AE5;
     }
-    .nav-gallery-list {
+    .nav-gallery {
         list-style-type:none;
     }
     .logo-name {
