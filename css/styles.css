@@ -27,7 +27,9 @@
         text-transform: uppercase;
     }
   
-    .site-nav-list .link:hover , 
+    .site-nav-list .link:hover{
+        color:#404BBF;
+    }
     .site-nav-list .link:focus { 
         color:#404BBF;
     }
